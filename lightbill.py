@@ -15,4 +15,3 @@ else:
     bill = units * 7
 
 print("Electricity Bill = ₹", bill)
-        print("Invalid Choice! Please try again.")
