@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Light_Bill
+Light_Bill Genration
 """
 
 units = int(input("Enter electricity units: "))
